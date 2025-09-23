@@ -58,5 +58,4 @@
    <a href="https://www.linkedin.com/in/luana-souza-mattos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- <br><br><br>
-<p align="center"> <img align="center" src="https://profile-counter.glitch.me/LuanaMattos/count.svg">
+
