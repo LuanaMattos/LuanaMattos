@@ -1,19 +1,41 @@
-# Hello!👋 I am Luana Mattos 
+# 👋 Hello! Welcome to my GitHub  
 
-<!--
-**LuanaMattos/LuanaMattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Luana Mattos  
 
-Here are some ideas to get you started:
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade  
+💻 Em transição de carreira da área administrativa para **Tecnologia da Informação**  
+🚀 Interesses principais: **Desenvolvimento Web (Front-End & Back-End)** e **Engenharia de Software**  
 
-- 🔭 I’m currently working on ...
-- 🌱 Estudante Análise e Desenvolvimento de Sistemas
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Atualmente estou aprendendo:
+- **Python** e **Django** (Back-End)  
+- **JavaScript, HTML, CSS** (Front-End)  
+- **Flutter** para desenvolvimento mobile  
+- Boas práticas de **versionamento com Git/GitHub**  
+
+---
+
+### 🔭 Experiência prévia:
+- Mais de **10 anos de atuação em Administração**, com foco em organização, gestão e resolução de problemas  
+- Agora aplicando essa experiência em **projetos de tecnologia**, com lógica de programação e desenvolvimento de soluções  
+
+---
+
+### 👯 Estou em busca de:
+- Primeira oportunidade na área de **Desenvolvimento de Software**  
+- Projetos colaborativos para ampliar meu portfólio  
+- Networking com profissionais de tecnologia  
+
+---
+
+### 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/luanamattos/)  
+- [E-mail](mailto:luana.mattos@email.com)  
+
+---
+
+✨ "Sempre é tempo de recomeçar — e a tecnologia é meu novo caminho." 
 <div>
   <a href="https://beacons.ai/luanamattos">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuanaMattos&show_icons=true&theme=ambient_gradient#gh-dark-mode-only"/>
