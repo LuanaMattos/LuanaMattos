@@ -23,8 +23,8 @@
 ---
 
 ### 👯 Estou em busca de:
-- Primeira oportunidade na área de **Desenvolvimento de Software**  
-- Projetos colaborativos para ampliar meu portfólio  
+- Minha **primeira oportunidade** como desenvolvedora  
+- Projetos colaborativos para compor meu portfólio  
 - Networking com profissionais de tecnologia  
 
 ---
