@@ -2,9 +2,11 @@
 
 ## I'm Luana Mattos  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade  
-💻 Em transição de carreira da área administrativa para **Tecnologia da Informação**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Gran Faculdade
+🏆 Embaixadora: DIO
+💻 Em transição de carreira após +10 anos na área administrativa   
 🚀 Interesses principais: **Desenvolvimento Web (Front-End & Back-End)** e **Engenharia de Software**  
+
 
 ---
 
@@ -23,9 +25,13 @@
 ---
 
 ### 👯 Estou em busca de:
-- Minha **primeira oportunidade** como desenvolvedora  
 - Projetos colaborativos para compor meu portfólio  
-- Networking com profissionais de tecnologia  
+- Networking com profissionais de tecnologia
+
+---
+
+## 🌱 Objetivo:
+Conquistar minha primeira oportunidade em **Tecnologia**, aplicando minhas habilidades técnicas, criatividade e experiência prévia com **análise, organização e liderança**.
 
 ---
 
@@ -38,7 +44,8 @@
 
 ---
 
-✨ "Sempre é tempo de recomeçar — e a tecnologia é meu novo caminho." 
+✨💡 "Em transição para TI, combinando experiência administrativa com paixão por tecnologia" 
+
 <div>
   <a href="https://beacons.ai/luanamattos">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuanaMattos&show_icons=true&theme=ambient_gradient#gh-dark-mode-only"/>
