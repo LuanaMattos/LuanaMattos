@@ -30,7 +30,7 @@
 
 ---
 
-## 🌱 Objetivo:
+### 🌱 Objetivo:
 Conquistar minha primeira oportunidade em **Tecnologia**, aplicando minhas habilidades técnicas, criatividade e experiência prévia com **análise, organização e liderança**.
 
 ---
